@@ -120,3 +120,9 @@ function addItemToDOM(text, completed) {
 
   list.insertBefore(item, list.childNodes[0]);
 }
+
+
+
+
+
+
