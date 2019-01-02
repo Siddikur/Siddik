@@ -122,7 +122,11 @@ function addItemToDOM(text, completed) {
 }
 
 
+var x = 'Siddik',
+    y = 'Rahman';
 
-
-
-
+var x = [1, 2, 3, 4, 5],
+    summation = 0;
+for(var i = 0; i < x.length; i++){
+  summation += i;
+}
